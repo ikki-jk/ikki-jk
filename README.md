@@ -1,10 +1,10 @@
 ## ☕ - Você trouxe o café?
-- 🍄 Comi um cogumelo e agora sou assombrado por gnomos.
+- 🍄 Vagar por dimensões? isso parece doideira.
 - 🌹 Atualmente desenvolvendo páginas na web e programando bots para o discord.
 <div>
-<a href="https://github.com/toichin-kk">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=toichin-kk&show_icons=true&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toichin-kk&layout=compact&langs_count=16&theme=radical"/>
+<a href="https://github.com/ikki-jk">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikki-jk&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikki-jk&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
