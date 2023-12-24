@@ -1,6 +1,8 @@
 ## ☕ - Você trouxe o café?
 - 🍄 Vagar por dimensões? isso parece doideira.
 - 🌹 Atualmente desenvolvendo páginas na web e programando bots para o discord.
+
+##
 <div>
 <a href="https://github.com/ikki-jk">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikki-jk&show_icons=true&theme=radical"/>
@@ -18,6 +20,6 @@
 
 <div> 
   <a href="https://www.instagram.com/lucas_jjkkj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/vAyY7E3tyv" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
+  <a href="https://discord.gg/wQGtXQfUTe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> 
   </a> 
 </div>
